@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766911626786",
+    "project_id": "wallpaperfirestore-15f15",
+    "storage_bucket": "wallpaperfirestore-15f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766911626786:android:a0b6941a94d203d341947b",
+        "android_client_info": {
+          "package_name": "com.WallPaper.wallpaperfirebase_23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8DBJriPxb5gwKfCda3NfwtjpdwaPI94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
